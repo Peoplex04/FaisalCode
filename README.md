@@ -15,7 +15,7 @@ Nama saya Faisal Ardhani, saya anak pertama dari 2 bersaudara, usia saat ini 18 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Peoplex04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Peoplex04&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Peoplex04&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
